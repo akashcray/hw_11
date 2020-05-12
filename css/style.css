@@ -1,0 +1,179 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+
+body{
+	background: linear-gradient(#B6D6FF, #fff);
+}
+
+/*--------------header start--------------*/
+
+.wrapper{
+	width: 100%;
+}
+
+header{
+	width: 90%;
+	overflow: hidden;
+	background: #fff;
+	padding: 15px 0;
+}
+
+.logo{
+	width: 20%;
+	float: left;
+}
+
+.logo img{
+	width: 100%;
+}
+
+.menu{
+	width: 70%;
+	float: right;
+	margin-top: 20px;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	color: #505E6D;
+	display: inline-block;
+	text-decoration: none;
+	padding: 0 30px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+}
+
+.benner{
+	width: 90%;
+	margin-top: 15px;
+}
+
+.benner img{
+	width: 100%
+}
+
+/*--------------header end--------------*/
+
+.services{
+	width: 90%;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+.service1, .service2, .service3 {
+	width: 30%;
+	float: left;
+	margin: 0 18px;
+}
+
+.service1 span{
+	display: block;
+	text-align: center;
+	padding: 12px 0;
+	font-size: 23px;
+	color: #a9b2c4;
+}
+
+.service2 span{
+	display: block;
+	text-align: center;
+	padding: 12px 0;
+	font-size: 23px;
+	color: #a9b2c4;
+}
+
+.service3 span{
+	display: block;
+	text-align: center;
+	padding: 12px 0;
+	font-size: 23px;
+	color: #a9b2c4;
+}
+
+.service1 img{
+	width: 100%;
+}
+
+.service2 img{
+	width: 100%;
+}
+
+.service3 img{
+	width: 100%;
+}
+
+.service1, .service2, .service3, p{
+	text-align: center;
+	font-size: 21px;
+	padding-top: 5px;
+}
+
+.service1 button{
+	padding: 5px 10px;
+	margin-top: 10px;
+	background: #193661;
+	border-radius: 7px;
+}
+
+.service2 button{
+	padding: 5px 10px;
+	margin-top: 10px;
+	background: #193661;
+	border-radius: 7px;
+}
+
+.service3 button{
+	padding: 5px 10px;
+	margin-top: 10px;
+	background: #193661;
+	border-radius: 7px;
+}
+
+.service1 button>a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.service2 button>a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.service3 button>a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+/*--------------Service area start--------------*/
+
+/*--------------footer start--------------*/
+
+footer{
+	width: 90%;
+}
+
+.footer-wrap{
+	overflow: hidden;
+	padding: 50px 0;
+}
+
+.footer-wrap span{
+	display: block;
+	text-align: center;
+	padding: 3px 0;
+}
+
+
+/*--------------footer end--------------*/
+
